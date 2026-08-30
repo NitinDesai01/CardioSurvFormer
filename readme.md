@@ -184,3 +184,10 @@ bash
 # In frontend directory with venv activated
 cd frontend
 streamlit run app.py --server.address 0.0.0.0 --server.port 8501
+
+
+
+
+
+**AUTHOR**
+**Nitin Desai**
